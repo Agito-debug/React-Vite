@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "id": 9,
+      "name": "dancho",
+      "email": "dancho@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Drago",
+      "email": "Drago@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Danail",
+      "email": "danail@gmail.com",
+      "phone": "514 112 3123"
+    },
+    {
+      "id": 12,
+      "name": "daadd",
+      "email": "dada"
+    },
+    {
+      "id": 13,
+      "name": "dadad",
+      "email": "dadaad"
+    },
+    {
+      "id": 14,
+      "name": "dadad",
+      "email": "dada@abv.bg"
+    },
+    {
+      "id": 15,
+      "name": "kiril",
+      "email": "kiril@gmail.com"
+    },
+    {
+      "id": 16,
+      "name": "frank",
+      "email": "frank@yahoo.com"
+    }
+  ]
+}
